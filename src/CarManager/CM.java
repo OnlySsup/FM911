@@ -22,6 +22,8 @@ public class CM {
         System.out.println(bmv.isReadyToService());
         System.out.println(lada.isReadyToService());
         System.out.println(bmv.isReadyToService());
+        System.out.println("___Test is The Finish___");
+
     }
 
 }
